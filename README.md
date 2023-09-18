@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+😄 I am a senior undergraduate in electronic engineering at Zhejiang University.
+
+🌱 I’m interested in trustworthy ML from the perspective of interpretation, generalization, and reliability.
+
+📫 You can find more information on my homepage: https://rookiehb.github.io/
+
 <!--
 **rookiehb/rookiehb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
