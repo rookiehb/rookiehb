@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-😄 I am a senior undergraduate majoring in electronic engineering at Zhejiang University.
+😄 I am a senior undergraduate majoring in electronic information engineering at Zhejiang University.
 
-🌱 I’m interested in trustworthy ML from the perspectives of interpretation, generalization, and reliability.
+🌱 I’m interested in building ML systems reliably deployed in real-world scenarios
 
 📫 You can find more information on my homepage: https://rookiehb.github.io/
 
