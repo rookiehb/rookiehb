@@ -2,9 +2,9 @@
 
 😄 I am a senior undergraduate majoring in electronic information engineering at Zhejiang University.
 
-🌱 I’m interested in building ML systems reliably deployed in real-world scenarios.
+🌱 I’m interested in building and understanding trustworthy ML systems that can be reliably deployed in real-world scenarios.
 
-📫 You can find more information on my homepage: https://rookiehb.github.io/
+
 
 <!--
 **rookiehb/rookiehb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
