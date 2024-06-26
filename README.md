@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-😄 I am a senior undergraduate majoring in electronic information engineering at Zhejiang University.
+😄 I am an incoming ECE Ph.D. student at UIUC.
 
-🌱 I’m interested in building and understanding trustworthy ML systems that can be reliably deployed in real-world scenarios.
+🌱 I’m interested in large language models, trustworthy machine learning, formal verification, and automated reasoning.
 
 
 
