@@ -2,7 +2,7 @@
 
 😄 I am an incoming ECE Ph.D. student at UIUC.
 
-🌱 I’m interested in large language models, trustworthy machine learning, formal verification, and automated reasoning.
+🌱 I’m interested in foundation model safety and trustworthy machine learning.
 
 
 
