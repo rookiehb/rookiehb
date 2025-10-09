@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-😄 I am a first-year ECE Ph.D. student at UIUC.
+😄 I am a second-year Ph.D. student at UIUC.
 
-🌱 I’m interested in foundation model safety and trustworthy machine learning.
+🌱 I’m interested in LLM reasoning, safety, and evaluation recently.
 
 
 
